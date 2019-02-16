@@ -33,12 +33,12 @@
 
 **项目结构:**
 
-	busi ---生产者与消费者接口</br>
-	busiImpl --实现类 </br>
-	consts   --处理状态变量</br>
-	datasource  --数据源</br>
-	main   --启动线程池</br>
-	middle  --第三方表的mapper类与实体</br>
-	our   --后台的mapper类与实体</br>
-	thread  --生产者与消费者</br>
+	busi ---生产者与消费者接口
+	busiImpl --实现类
+	consts   --处理状态变量
+	datasource  --数据源
+	main   --启动线程池
+	middle  --第三方表的mapper类与实体
+	our   --后台的mapper类与实体
+	thread  --生产者与消费者
 	util  --获取session工具类
